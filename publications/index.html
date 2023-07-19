@@ -121,24 +121,28 @@
             <!-- _pages/publications.md -->
 <div class="publications">
   <h2 class="year">2023</h2>
-  <ol class="bibliography"><li>
+  <ol class="bibliography"></ol>
+
+  <h2 class="year">2022</h2>
+  <ol class="bibliography">
+<li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge">arXiv</abbr></div>
+        <div class="col-sm-2 abbr"><abbr class="badge">TNNLS</abbr></div>
 
         <!-- Entry bib key -->
-        <div id="Hao23" class="col-sm-8">
+        <div id="Taylor22" class="col-sm-8">
         <!-- Title -->
-        <div class="title">Monitoring and Adapting ML Models on Mobile Devices</div>
+        <div class="title">Clinical Prompt Learning with Frozen Language Models</div>
         <!-- Author -->
         <div class="author">
         
 
-        Wei Hao, Zixi Wang, Lauren Hong, and
-          <span class="more-authors" title="click to view 5 more authors" onclick="
+        Niall Taylor, Yi Zhang, Dan Joyce, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '5 more authors' ? 'Lingxiao Li, Nader Karayanni, Chengzhi Mao, Junfeng Yang, Asaf Cidon' : '5 more authors';
+                var more_authors_text = element.text() == '2 more authors' ? 'Alejo Nevado-Holgado, Andrey Kormilitzin' : '2 more authors';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
@@ -146,14 +150,14 @@
                     clearInterval(textAdder);
                   }
               }, '10');
-              ">5 more authors</span>
+              ">2 more authors</span>
 </div>
 
         <!-- Journal/Book title and date -->
         
         
         <div class="periodical">
-          <em>arXiv preprint arXiv:2305.07772</em>, 2023
+          <em>TNNLS</em>, 2022
         </div>
         <div class="periodical">
           
@@ -162,7 +166,7 @@
           <!-- Links/Buttons -->
           <div class="links">
             <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-            <a href="https://arxiv.org/abs/2305.07772" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+            <a href="https://arxiv.org/abs/2205.05535" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
           </div>
           
           <div class="badges">
@@ -172,14 +176,12 @@
 
           <!-- Hidden abstract block -->
           <div class="abstract hidden">
-            <p>ML models are increasingly being pushed to mobile devices, for low-latency inference and offline operation. However, once the models are deployed, it is hard for ML operators to track their accuracy, which can degrade unpredictably (e.g., due to data drift). We design Nazar, the first end-to-end system for continuously monitoring and adapting models on mobile devices without requiring feedback from users. Our key observation is that often model degradation is due to a specific root cause, which may affect a large group of devices. Therefore, once Nazar detects a consistent degradation across a large number of devices, it employs a root cause analysis to determine the origin of the problem and applies a cause-specific adaptation. We evaluate Nazar on two computer vision datasets, and show it consistently boosts accuracy compared to existing approaches. On a dataset containing photos collected from driving cars, Nazar improves the accuracy on average by 15%.</p>
+            <p>Prompt learning is a new paradigm in the Natural Language Processing (NLP) field which has shown impressive performance on a number of natural language tasks with common benchmarking text datasets in full, few-shot, and zero-shot train-evaluation setups. Recently, it has even been observed that large but frozen pre-trained language models (PLMs) with prompt learning outperform smaller but fine-tuned models. However, as with many recent NLP trends, the performance of even the largest PLMs such as GPT-3 do not perform well on specialized domains (e.g. medical text), and the common practice to achieve State of the Art (SoTA) results still consists of pre-training and fine-tuning the PLMs on downstream tasks. The reliance on fine-tuning large PLMs is problematic in clinical settings where data is often held in non-GPU environments, and more resource efficient methods of training specialized domain models is crucial. We investigated the viability of prompt learning on clinically meaningful decision tasks and directly compared with more traditional fine-tuning methods. Results are partially in line with the prompt learning literature, with prompt learning able to match or improve on traditional fine-tuning with substantially fewer trainable parameters and requiring less training data. We argue that prompt learning therefore provides lower computational resource costs applicable to clinical settings, that can serve as an alternative to fine-tuning ever increasing in size PLMs.</p>
           </div>
         </div>
       </div>
-</li></ol>
-
-  <h2 class="year">2022</h2>
-  <ol class="bibliography"><li>
+</li>
+<li>
 <!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"><abbr class="badge">arXiv</abbr></div>
@@ -221,65 +223,11 @@
           </div>
         </div>
       </div>
-</li></ol>
+</li>
+</ol>
 
   <h2 class="year">2018</h2>
-  <ol class="bibliography"><li>
-<!-- _layouts/bib.html -->
-      <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge">ITME</abbr></div>
-
-        <!-- Entry bib key -->
-        <div id="Ni18" class="col-sm-8">
-        <!-- Title -->
-        <div class="title">Model Checking the Reliability of Data Center Network</div>
-        <!-- Author -->
-        <div class="author">
-        
-
-        Congwei Ni, Sihan Cheng, Xutao Wang, and
-          <span class="more-authors" title="click to view 5 more authors" onclick="
-                var element = $(this);
-                element.attr('title', '');
-                var more_authors_text = element.text() == '5 more authors' ? 'Tianyun Hu, Zhenjin Dai, Dongliang Zhang, Lingxiao Li, Xin Huang' : '5 more authors';
-                var cursorPosition = 0;
-                var textAdder = setInterval(function(){
-                  element.text(more_authors_text.substring(0, cursorPosition + 1));
-                  if (++cursorPosition == more_authors_text.length){
-                    clearInterval(textAdder);
-                  }
-              }, '10');
-              ">5 more authors</span>
-</div>
-
-        <!-- Journal/Book title and date -->
-        
-        
-        <div class="periodical">
-          <em>In 2018 9th International Conference on Information Technology in Medicine and Education (ITME)</em>, 2018
-        </div>
-        <div class="periodical">
-          
-        </div>
-
-          <!-- Links/Buttons -->
-          <div class="links">
-            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
-            <a href="https://ieeexplore.ieee.org/abstract/document/8589429" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
-          </div>
-          
-          <div class="badges">
-            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-doi="10.1109/ITME.2018.00197"></span>
-              <span class="__dimensions_badge_embed__" data-doi="10.1109/ITME.2018.00197" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
-          </div>
-
-          <!-- Hidden abstract block -->
-          <div class="abstract hidden">
-            <p>Data center network provides a basis for internet-based applications nowadays, thereby the reliability of it is vital. The purpose of this research is to examine and compare the reliability of two data center network architectures, which are Common Tree and Fat-tree topology structure. To verify the reliability of these two architectures, a tool called PRISM with the function of probabilistic model checking is used in this paper. Results show that Fat-tree topology structure is more reliable than Common Tree, and the reliabilities of core layer, edge/ aggregation layer and terminal layer decline sequentially.</p>
-          </div>
-        </div>
-      </div>
-</li></ol>
+  <ol class="bibliography"></ol>
 
 
 </div>
