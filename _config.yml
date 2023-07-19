@@ -267,8 +267,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags wil
 
 scholar:
 
-  last_name: [Yi]
-  first_name: [Zhang]
+  last_name: [Zhang]
+  first_name: [Yi]
 
   style: apa
   locale: en
