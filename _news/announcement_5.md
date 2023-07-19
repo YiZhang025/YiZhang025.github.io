@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Hyperbolic paper accepted by [ICCV] 2023!
+One paper accepted by [ICCV] 2023!
