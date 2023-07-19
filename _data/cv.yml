@@ -18,10 +18,13 @@
       institution: University of Oxford
       year: 2022
 
-    - title: BSc (Hons) in Maths
+    - title: BSc (Hons) in Mathematics
       institution: The University of Manchester
       year: 2020
-
+      
+    - title: BSc in Mathematics and Applied Mathematics
+      institution: Tianjin University
+      year: 2020
 
 - title: Experience
   type: time_table
