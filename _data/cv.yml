@@ -29,7 +29,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Researcher
+    - title: Machine Learning Researcher
       institution: Department of Psychiatry, University of Oxford
       year: 2021 - 2023
       advisor: Dr Andrey Kormilitzin, Prof Alejo J Nevado-Holgado, Prof Noel Buckley
@@ -46,6 +46,12 @@
       items: 
         - Graduate-level course
         - Teaching Assistant
+
+    - title: Master Dissertation
+      institution: Mathematical Institute, University of Oxford
+      year: 2021-2022
+      items: 
+        - Co-Supervisor of graduate students finishing MSc in Mathematical Sciences
 
 
 - title: Other Interests
