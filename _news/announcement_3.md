@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper on Hyperbolic Deep Learning submitted to [arXiv](https://arxiv.org/abs/2211.12347)
+Paper on Hyperbolic Deep Learning submitted to [arXiv](https://arxiv.org/abs/2211.12347).
