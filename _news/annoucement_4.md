@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Prompt paper accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS)!
+Prompt paper accepted by IEEE [Transactions on Neural Networks and Learning Systems (TNNLS)]!
