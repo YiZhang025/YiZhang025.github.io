@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by **MICCAI STACOM Workshop 2023**!
+Two papers accepted by **MICCAI STACOM Workshop 2023**!
