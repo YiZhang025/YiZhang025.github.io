@@ -40,8 +40,6 @@
 - title: Teaching
   type: time_table
   contents:
-
-  
     - title: AP3137 - AI For Physicists
       institution: Delft University of Technology
       year: 2024
@@ -55,8 +53,9 @@
  
     - title: AP3132 - Advanced Digital Image Processing
       institution: Delft University of Technology
-      year: 2023, 2024
+      year: 2023-2024
       items: 
+        - Consecutive 2 Academic Years
         - Graduate-level course
         - Teaching Assistant
 
