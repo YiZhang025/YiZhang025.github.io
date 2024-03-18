@@ -39,6 +39,7 @@
 
 - title: Teaching
   type: time_table
+  
   contents:
     - title: AP3137 - AI For Physicists
       institution: Delft University of Technology
