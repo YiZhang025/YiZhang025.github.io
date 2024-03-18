@@ -31,7 +31,7 @@
   contents:
     - title: Machine Learning Researcher
       institution: Department of Psychiatry, University of Oxford
-      year: 2021 - 2023
+      year: 2021-2023
       advisor: Dr Andrey Kormilitzin, Prof Alejo J Nevado-Holgado, Prof Noel Buckley
       description:
         - Worked in Oxford-GSK collaboration on dementia research.
@@ -46,7 +46,7 @@
       items: 
         - Graduate-level course
         - Teaching Assistant  
-   - title: Bachelor End Project - Medical Image Analysis
+    - title: Bachelor End Project - Medical Image Analysis
       institution: Delft University of Technology
       year: 2023
       items: 
