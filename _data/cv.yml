@@ -39,7 +39,6 @@
 
 - title: Teaching
   type: time_table
-  
   contents:
     - title: AP3137 - AI For Physicists
       institution: Delft University of Technology
@@ -47,13 +46,11 @@
       items: 
         - Graduate-level course
         - Teaching Assistant  
-        
    - title: Bachelor End Project - Medical Image Analysis
       institution: Delft University of Technology
       year: 2023
       items: 
         - Medical Image Classification
- 
     - title: AP3132 - Advanced Digital Image Processing
       institution: Delft University of Technology
       year: 2023-2024
@@ -61,7 +58,6 @@
         - Consecutive 2 Academic Years
         - Graduate-level course
         - Teaching Assistant
-
     - title: Master Dissertation
       institution: Mathematical Institute, University of Oxford
       year: 2021-2022
