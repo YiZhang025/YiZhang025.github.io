@@ -7,7 +7,7 @@ organization: Delft University of Technology
 
 profile:
   align: left
-  image: Image.jpg
+  image: image1678.png
   image_circular: true # crops the image to make it circular
 
 news: true  # includes a list of news items
