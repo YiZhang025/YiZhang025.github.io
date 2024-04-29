@@ -9,7 +9,7 @@ profile:
   align: left
   image: image1678.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info:
     <p><small>Me in Amsterdam. Cr: Dr. Wenxiu Wang</small></p>
 
 
@@ -22,8 +22,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-**Research:** Based at Medical Imaging Group at TU Delft and supervised by [Dr. Qian Tao](https://www.tudelft.nl/staff/q.tao/?cHash=bab151eba5301c7840e42983dfa31164), I am interested in many aspects of medical image analysis, with a focus on cardiac MRI. My interests include **image registration**, **quantitative MRI**, **probabilistic deep learning**, and their clinical applications.
+**Research:** Based in the Medical Imaging AI Lab at TU Delft and supervised by [Dr. Qian Tao](https://www.tudelft.nl/staff/q.tao/?cHash=bab151eba5301c7840e42983dfa31164), I am interested in many aspects of medical image analysis, with a focus on cardiac MRI. My interests include **image registration**, **quantitative MRI**, **probabilistic deep learning**, and their clinical applications.
 
-**Bio:** Before joining TU Delft, I completed a joint bachelor's degree in maths from the University of Manchester and Tianjin University, and master's degree in mathematical sciences from University of Oxford, supervised by [Prof. Yuji Nakatsukasa](https://people.maths.ox.ac.uk/nakatsukasa/). After my graduation, I worked as a researcher at [Translational Neuroscience and Dementia Research Group](https://www.psych.ox.ac.uk/research/dementia-research-group) and [Chronosig](https://www.chronosig.org/), both at University of Oxford, funded by GSK and NIHR respectively.
+**Bio:** Before joining TU Delft, I completed a joint bachelor's degree in maths from the University of Manchester and Tianjin University, and master's degree in mathematical sciences from University of Oxford, supervised by [Prof. Yuji Nakatsukasa](https://people.maths.ox.ac.uk/nakatsukasa/). After my graduation, I worked as a full-time ML researcher at [Translational Neuroscience and Dementia Research Group](https://www.psych.ox.ac.uk/research/dementia-research-group) at the University of Oxford, funded by GSK and NIHR.
 
 Apart from academic life, I've been serving as a clarinet player since 2005: Mozart, Brahms, and some Debussy.
