@@ -27,4 +27,4 @@ social: true  # includes social icons at the bottom of the page
 
 Apart from academic life, I've been serving as a clarinet player since 2005: Mozart, Brahms, and some Debussy. 
 
-Photo: Me enjoying the early cherry blossom in Amsterdam while holding an incomplete tripod. Cr Dr. Wenxiu Wang.
+Photo: Me enjoying the early cherry blossom in Amsterdam while holding an incomplete tripod. Credit: Dr. Wenxiu Wang.
