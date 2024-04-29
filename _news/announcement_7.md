@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted by **MIDL 2024 Short Paper Track** Congrats to my colleagues!
+Two papers accepted by **MIDL 2024 Short Paper Track**. Congrats to my colleagues and see you in Paris!
