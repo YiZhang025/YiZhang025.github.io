@@ -9,8 +9,7 @@ profile:
   align: left
   image: image1678.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p><small>Me in Amsterdam. Cr: Dr. Wenxiu Wang</small></p>
+ 
 
 
 
@@ -26,4 +25,6 @@ social: true  # includes social icons at the bottom of the page
 
 **Bio:** Before joining TU Delft, I completed a joint bachelor's degree in maths from the University of Manchester and Tianjin University, and master's degree in mathematical sciences from University of Oxford, supervised by [Prof. Yuji Nakatsukasa](https://people.maths.ox.ac.uk/nakatsukasa/). After my graduation, I worked as a full-time ML researcher at [Translational Neuroscience and Dementia Research Group](https://www.psych.ox.ac.uk/research/dementia-research-group) at the University of Oxford, funded by GSK and NIHR.
 
-Apart from academic life, I've been serving as a clarinet player since 2005: Mozart, Brahms, and some Debussy.
+Apart from academic life, I've been serving as a clarinet player since 2005: Mozart, Brahms, and some Debussy. 
+
+Photo: Me enjoying the early cherry blossom in Amsterdam while holding an incomplete tripod. Cr Dr. Wenxiu Wang.
