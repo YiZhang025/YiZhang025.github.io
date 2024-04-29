@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: PhD Student
 organization: Medical Imaging AI Lab, Delft University of Technology
-
 profile:
   align: left
   image: image1678.jpg
