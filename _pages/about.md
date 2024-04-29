@@ -10,7 +10,7 @@ profile:
   image: image1678.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><small>Me in Amsterdam. &copy Dr. Wang.</small></p>
+    <p><small>Me in Amsterdam. &copy Dr. Wang</small></p>
 
 
 
