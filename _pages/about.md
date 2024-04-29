@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: PhD Student
-organization: Delft University of Technology
+organization: Medical Imaging AI Lab, Delft University of Technology
 
 profile:
   align: left
