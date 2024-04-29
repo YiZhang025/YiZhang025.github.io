@@ -4,7 +4,7 @@
     - name: Full Name
       value: Yi Zhang
     - name: Languages
-      value: Chinese, English
+      value: Chinese, English, Japanese
 
 - title: Education
   type: time_table
@@ -35,7 +35,7 @@
       advisor: Dr Andrey Kormilitzin, Prof Alejo J Nevado-Holgado, Prof Noel Buckley
       description:
         - Worked in Oxford-GSK collaboration on dementia research.
-        - Worked in the NIHR Chronosig project. 
+        - Worked on the NIHR Chronosig project. 
 
 - title: Teaching
   type: time_table
@@ -68,4 +68,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Classical Music, History, etc.
+    - <u>Hobbies:</u> Classical Music (Brahms, Bach, and Chopin), Photography (with Dr. Wenxiu Wang).
