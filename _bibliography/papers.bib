@@ -25,8 +25,9 @@
 @String(CSVT = {IEEE Trans. Circuit Syst. Video Technol.})
 @String(TNNLS = {IEEE Trans. Neural Netw. Learn. Syst.})
 @String(bioRxiv = {bioRxiv})
-@String(STACOM = {STACOM})
+@String(MICCAIW = {MICCAIW})
 @String(MIDL-S = {MIDL-S})
+@String(MICCAI = {MICCAI})
 
 @String(SPL	= {IEEE Sign. Process. Letters})
 @String(VR   = {Vis. Res.})
@@ -63,10 +64,29 @@
 @String(CSVT = {IEEE TCSVT})
 @String(TNNLS = {IEEE TNNLS})
 @String(bioRxiv = {bioRxiv})
-@String(STACOM = {STACOM})
+@String(MICCAI = {MICCAI})
+@String(MICCAIW = {MICCAIW})
 @String(MIDL-S = {MIDL-S})
 @String(SCMR-A = {SCMR-A})
 
+@article{zhang2024recurrent,
+  title={Recurrent Inference Machine for Medical Image Registration},
+  abbr={MRM}
+  author={Zhang, Yi and Zhao, Yidong and Xue, Hui and Kellman, Peter and Klein, Stefan and Tao, Qian},
+  journal={arXiv preprint arXiv:2406.13413},
+  year={2024}
+}
+
+@article{zhang2024pca,
+  title={PCA-Relax: Deep-learning-based groupwise registration for motion correction of cardiac $ T\_1 $ mapping},
+  abbr = {MICCAI},
+  selected = {true},
+  author={Zhang, Yi and Zhao, Yidong and Huang, Lu and Xia, Liming and Tao, Qian},
+  journal={International Conference on Medical Image Computing and Computer Assisted Intervention},
+  year={2024},
+  pdf={https://arxiv.org/pdf/2406.12456},
+abstract = {Quantitative T1 mapping by MRI is an increasingly important tool for clinical assessment of cardiovascular diseases. The cardiac T1 map is derived by fitting a known signal model to a series of baseline images, while the quality of this map can be deteriorated by involuntary respiratory and cardiac motion. To correct motion, a template image is often needed to register all baseline images, but the choice of template is nontrivial, leading to inconsistent performance sensitive to image contrast. In this work, we propose a novel deep-learning-based groupwise registration framework, which omits the need for a template, and registers all baseline images simultaneously. We design two groupwise losses for this registration framework: the first is a linear principal component analysis (PCA) loss that enforces alignment of baseline images irrespective of the intensity variation, and the second is an auxiliary relaxometry loss that enforces adherence of intensity profile to the signal model. We extensively evaluated our method, termed ``PCA-Relax'', and other baseline methods on an in-house cardiac MRI dataset including both pre- and post-contrast T1 sequences. All methods were evaluated under three distinct training-and-evaluation strategies, namely, standard, one-shot, and test-time-adaptation. The proposed PCA-Relax showed further improved performance of registration and mapping over well-established baselines. The proposed groupwise framework is generic and can be adapted to applications involving multiple images.}
+}
 
 @article{zhang2024torcht,
 title={Torch{$T1$}: {GPU}-accelerated cardiac {$T1$} mapping with deep learning framework},
@@ -90,6 +110,14 @@ year={2024},
 url={https://openreview.net/forum?id=m9pHODd2HS}
 }
 
+@article{vsiuryte2024preparation,
+  title={Preparation-based B 1+ mapping in the heart using Bloch--Siegert shifts},
+  author={{\v{S}}iuryt{\.e}, Paulina and Tourais, Joao and Zhang, Yi and Coletti, Chiara and van de Steeg-Henzen, Christal and Mandija, Stefano and Tao, Qian and Henningsson, Markus and Weing{\"a}rtner, Sebastian},
+  journal={Magnetic Resonance in Medicine},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+
 @article{bozic2024myocardium,
   title={Myocardium Signal Suppression with t2-preparations for Reduced Physiological Noise in Myocardial ASL},
   author={Bozic-Iven, Masa and Zhang, Yi and Tao, Qian and Rapacchi, Stanislas and Schad, Lothar and Weing{\"a}rtner, Sebastian},
@@ -103,7 +131,7 @@ url={https://openreview.net/forum?id=m9pHODd2HS}
 @article{zhao2023relaxometry,
   title={Relaxometry Guided Quantitative Cardiac Magnetic Resonance Image Reconstruction},
   author={Zhao, Yidong and Zhang, Yi and Tao, Qian},
-  abbr = {STACOM},
+  abbr = {MICCAIW},
   journal={International Workshop on Statistical Atlases and Computational Models of the Heart},
   pages={349--358},
   year={2023},
@@ -113,7 +141,7 @@ url={https://openreview.net/forum?id=m9pHODd2HS}
 @article{li2023contrast,
   title={Contrast-Agnostic Groupwise Registration by Robust PCA for Quantitative Cardiac MRI},
   author={Li, Xinqi and Zhang, Yi and Zhao, Yidong and van Gemert, Jan and Tao, Qian},
-  abbr = {STACOM},
+  abbr = {MICCAIW},
   journal={International Workshop on Statistical Atlases and Computational Models of the Heart},
   pages={77--87},
   year={2023},
