@@ -42,15 +42,20 @@
   contents:
     - title: AP3137 - AI For Physicists
       institution: Delft University of Technology
-      year: 2024
+      year: 2024-2025
       items: 
         - Graduate-level course
-        - Teaching Assistant  
+        - Teaching Assistant, Project Supervisor, Materials  
     - title: Bachelor End Project - Medical Image Analysis
       institution: Delft University of Technology
       year: 2023
       items: 
         - Medical Image Classification
+    - title: Master End Project - Medical Image Analysis
+      institution: Delft University of Technology
+      year: 2024,2025
+      items: 
+        - CMRI Synthesis with diffusion models
     - title: AP3132 - Advanced Digital Image Processing
       institution: Delft University of Technology
       year: 2023-2024
