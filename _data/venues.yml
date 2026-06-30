@@ -4,3 +4,47 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"bioRxiv":
+  url: https://www.biorxiv.org/
+  color: "#c0392b"
+
+"ICCV":
+  url: https://iccv.thecvf.com/
+  color: "#2364aa"
+
+"MICCAI":
+  url: https://conferences.miccai.org/
+  color: "#2b7a78"
+
+"MICCAIW":
+  url: https://www.miccai.org/
+  color: "#55917f"
+
+"MIDL-S":
+  url: https://openreview.net/group?id=MIDL.io/2024/Short_Paper
+  color: "#6c5ce7"
+
+"MedIA":
+  url: https://www.sciencedirect.com/journal/medical-image-analysis
+  color: "#005f73"
+
+"MRM":
+  url: https://onlinelibrary.wiley.com/journal/15222594
+  color: "#0077b6"
+
+"SCMR-A":
+  url: https://scmr.org/
+  color: "#7f8c8d"
+
+"Sci Rep":
+  url: https://www.nature.com/srep/
+  color: "#4b5563"
+
+"TNNLS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
+  color: "#8e44ad"
